@@ -1,4 +1,4 @@
-https://cdn.jsdelivr.net/gh/wont-stream/discord-css/index.css
+https://cdn.jsdelivr.net/gh/wont-stream/discord-css/index.css <= prefered
 
 https://cdn.statically.io/gh/wont-stream/discord-css/index.css
 
