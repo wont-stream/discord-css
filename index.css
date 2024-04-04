@@ -72,24 +72,6 @@
     animation: none !important;
 }
 
-
-
-[aria-label="Open sticker picker"] {
-    display: none;
-}
-
-[class^="profileBadges"], [class^="banner"] {
-    display: none;
-}
-
-[class^="avatarHoverTarget"], [class^="avatarDecorationHint"] {
-    display: none
-}
-
-[class^="topSection"] {
-    display:none;
-}
-
 /* https://gist.github.com/DubyaDude/1ee0e8c218a22883721635dfae3e022c */
 /* Dubyas list of annoying stuff he hides in discord using Quick CSS */
 
