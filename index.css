@@ -1,9 +1,16 @@
+@import url("https://customeffects.github.io/CustomEffectsTheme/CustomEffects.css");
+
+@import url("https://discord-custom-covers.github.io/usrbg/snippets/modals.css");
+@import url("https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css");
+
+@import url("https://userpfp.github.io/UserPFP/import.css");
+
 @import url("https://aushevahmad.github.io/awesome-css/modules/bartender.css");
+@import url("https://aushevahmad.github.io/awesome-css/modules/custom-emoji-bar.css");
 @import url("https://aushevahmad.github.io/awesome-css/modules/custom-bar-prompt.css");
 @import url("https://aushevahmad.github.io/awesome-css/modules/channeltweaks.css");
 @import url("https://aushevahmad.github.io/awesome-css/modules/adblockplus.css");
 @import url("https://aushevahmad.github.io/awesome-css/modules/declutter.css");
-@import url("https://raw.githubusercontent.com/Vortex-Chaos/Discord-Connections-Glow/main/Code.css");
 @import url("https://aushevahmad.github.io/awesome-css/modules/acrylicpopup.css");
 @import url("https://minidiscordthemes.github.io/Snippets/AltTextImprovements/main.css");
 @import url("https://dablulite.github.io/css-snippets/QuickSwitchV2/import.css");
@@ -14,6 +21,8 @@
 /* customize things here */
 :root {
     --bartender-width: 3ch;  /* Width for displayed icon. Adjust depending on your needs [Default: 4ch] */
+
+    --image-link: url("https://cdn3.emoji.gg/emojis/7368-cat.png");
 
     --prompt-text: "Eine Nachricht schicken";
 
