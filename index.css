@@ -1,47 +1,27 @@
 @import url("https://customeffects.github.io/CustomEffectsTheme/CustomEffects.css");
 
-@import url("https://discord-custom-covers.github.io/usrbg/snippets/modals.css");
-@import url("https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css");
-
-@import url("https://userpfp.github.io/UserPFP/import.css");
-
-@import url("https://aushevahmad.github.io/awesome-css/modules/bartender.css");
-@import url("https://aushevahmad.github.io/awesome-css/modules/custom-emoji-bar.css");
-@import url("https://aushevahmad.github.io/awesome-css/modules/custom-bar-prompt.css");
 @import url("https://aushevahmad.github.io/awesome-css/modules/channeltweaks.css");
 @import url("https://aushevahmad.github.io/awesome-css/modules/adblockplus.css");
 @import url("https://aushevahmad.github.io/awesome-css/modules/declutter.css");
-@import url("https://aushevahmad.github.io/awesome-css/modules/acrylicpopup.css");
-@import url("https://minidiscordthemes.github.io/Snippets/AltTextImprovements/main.css");
-@import url("https://dablulite.github.io/css-snippets/QuickSwitchV2/import.css");
-@import url("https://dablulite.github.io/css-snippets/AccountDetailsGrid/import.css");
-@import url("https://dablulite.github.io/css-snippets/TabsV2HomeIcon/import.css");
-@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
 
-/* customize things here */
+@import url('https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css');
+
 :root {
-    --bartender-width: 3ch;  /* Width for displayed icon. Adjust depending on your needs [Default: 4ch] */
-
-    --image-link: url("https://cdn3.emoji.gg/emojis/7368-cat.png");
-
-    --prompt-text: "Eine Nachricht schicken";
-
-    --accentcolor: 114,137,218;
-    --accentcolor2: 255,115,250;
-    --linkcolor: 0,176,244;
-    --mentioncolor: 250,166,26;
-    --textbrightest: 255,255,255;
-    --textbrighter: 222,222,222;
-    --textbright: 185,185,185;
-    --textdark: 140,140,140;
-    --textdarker: 115,115,115;
-    --textdarkest: 80,80,80;
-    --font: system-ui;
-    --backgroundaccent: 0,0,0;
-    --backgroundprimary: 0,0,0;
-    --backgroundsecondary: 0,0,0;
-    --backgroundsecondaryalt: 0,0,0;
-    --backgroundtertiary: 0,0,0;
-    --backgroundfloating: 0,0,0;
-    --settingsicons: 1;
+  --accent-hue: 227;
+  --accent-saturation: 58%;
+  --accent-lightness: 65%;
+  --accent-text-color: #4E5D94;
+  --avatar-radius: 50%;
+  --message-radius: 20px;
+  --message-padding-top: 8px;
+  --message-padding-side: 12px;
+  --media-radius: 19px;
+  --card-radius: 8px;
+  --card-radius-big: 18px;
+  --popout-radius: 18px;
+  --popout-radius-big: 18px;
 }
+
+/* Any custom CSS below here */
+
+
