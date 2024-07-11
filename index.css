@@ -5,8 +5,6 @@
  * @version 0.0.1
  */
 
-@import url("https://customeffects.github.io/CustomEffectsTheme/CustomEffects.css");
-
 @import url("https://aushevahmad.github.io/awesome-css/modules/vc-membercount.css");
 @import url("https://aushevahmad.github.io/awesome-css/modules/channeltweaks.css");
 @import url("https://aushevahmad.github.io/awesome-css/modules/fancySearch.css");
@@ -29,7 +27,3 @@
   --popout-radius: 18px;
   --popout-radius-big: 18px;
 }
-
-/* Any custom CSS below here */
-
-
