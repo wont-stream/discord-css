@@ -5,10 +5,9 @@
  * @version 0.0.1
  */
 
-@import url("https://aushevahmad.github.io/awesome-css/modules/vc-membercount.css");
 @import url("https://aushevahmad.github.io/awesome-css/modules/channeltweaks.css");
-@import url("https://aushevahmad.github.io/awesome-css/modules/fancySearch.css");
-@import url("https://aushevahmad.github.io/awesome-css/modules/declutterplus.css");
+@import url("https://cdn.jsdelivr.net/gh/AushevAhmad/awesome-css@main/modules/adblock.css");
+@import url("https://cdn.jsdelivr.net/gh/AushevAhmad/awesome-css@main/modules/declutter.css");
 
 @import url('https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css');
 
