@@ -7,16 +7,17 @@
 
 @import url("https://customeffects.github.io/CustomEffectsTheme/CustomEffects.css");
 
+@import url("https://aushevahmad.github.io/awesome-css/modules/vc-membercount.css");
 @import url("https://aushevahmad.github.io/awesome-css/modules/channeltweaks.css");
-@import url("https://aushevahmad.github.io/awesome-css/modules/adblockplus.css");
-@import url("https://aushevahmad.github.io/awesome-css/modules/declutter.css");
+@import url("https://aushevahmad.github.io/awesome-css/modules/fancySearch.css");
+@import url("https://aushevahmad.github.io/awesome-css/modules/declutterplus.css");
 
 @import url('https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css');
 
 :root {
-  --accent-hue: 227;
-  --accent-saturation: 58%;
-  --accent-lightness: 65%;
+  --accent-hue: 355;
+  --accent-saturation: 86%;
+  --accent-lightness: 45%;
   --accent-text-color: #4E5D94;
   --avatar-radius: 50%;
   --message-radius: 20px;
