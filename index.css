@@ -16,13 +16,13 @@
   --accent-saturation: 86%;
   --accent-lightness: 45%;
   --accent-text-color: #DEDEDE;
-  --avatar-radius: 50%;
-  --message-radius: 20px;
+  --avatar-radius: 0%;
+  --message-radius: 0px;
   --message-padding-top: 8px;
   --message-padding-side: 12px;
-  --media-radius: 19px;
-  --card-radius: 8px;
-  --card-radius-big: 18px;
-  --popout-radius: 18px;
-  --popout-radius-big: 18px;
+  --media-radius: 0px;
+  --card-radius: 0px;
+  --card-radius-big: 0px;
+  --popout-radius: 0px;
+  --popout-radius-big: 0px;
 }
