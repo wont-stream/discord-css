@@ -6,7 +6,7 @@
  */
 
 @import url("https://aushevahmad.github.io/awesome-css/modules/channeltweaks.css");
-@import url("https://cdn.jsdelivr.net/gh/AushevAhmad/awesome-css@main/modules/adblock.css");
+@import url("https://cdn.jsdelivr.net/gh/AushevAhmad/awesome-css@main/modules/adblockplus.css");
 @import url("https://cdn.jsdelivr.net/gh/AushevAhmad/awesome-css@main/modules/declutter.css");
 
 @import url('https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css');
@@ -16,13 +16,27 @@
   --accent-saturation: 86%;
   --accent-lightness: 45%;
   --accent-text-color: #DEDEDE;
-  --avatar-radius: 0%;
-  --message-radius: 0px;
   --message-padding-top: 8px;
   --message-padding-side: 12px;
+  --sidebar-panel-radius-big: 0px;
+  --sidebar-panel-radius-small: 0px;
+  --message-radius: 0px;
   --media-radius: 0px;
   --card-radius: 0px;
   --card-radius-big: 0px;
+  --button-radius: 0px;
+  --input-radius: 0px;
   --popout-radius: 0px;
   --popout-radius-big: 0px;
+  --avatar-radius: 0px;
+  --channel-radius: 0px;
+  --tooltip-radius: 0px;
+}
+
+* {
+  border-radius: 0% !important;
+  border-top-left-radius: 0% !important;
+  border-top-right-radius: 0% !important;
+  border-bottom-right-radius: 0% !important;
+  border-bottom-left-radius: 0% !important;
 }
