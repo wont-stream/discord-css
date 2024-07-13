@@ -42,6 +42,6 @@
   mask: none !important;
 }
 
-[class*="avatarDecoration"] {
+[class*="avatarDecoration"], [class*="clanTag"] {
   display: none !important;
 }
