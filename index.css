@@ -42,16 +42,3 @@
   --channel-radius: 0px;
   --tooltip-radius: 0px;
 }
-
-* {
-  border-radius: 0% !important;
-  border-top-left-radius: 0% !important;
-  border-top-right-radius: 0% !important;
-  border-bottom-right-radius: 0% !important;
-  border-bottom-left-radius: 0% !important;
-  mask: none !important;
-}
-
-[class*="avatarDecoration"], [class*="clanTag"] {
-  display: none !important;
-}
