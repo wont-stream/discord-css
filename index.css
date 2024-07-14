@@ -1,9 +1,9 @@
 /**
  * @name DiscordCSS
  * @author wont.stream
- * @description https://github.com/wont-stream/discord-css
  * @authorId 1125315673829154837
- * @version 0.2.3
+ * @description https://github.com/wont-stream/discord-css
+ * @version 0.2.4
  * @invite QhmtYSsprZ
  * @website https://ipv4.army
  * @source https://github.com/wont-stream/discord-css/
@@ -19,7 +19,6 @@
 @import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/addons/material-you/source.css");
 
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Google.css");
-@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css");
 
 :root {
   --accent-hue: 355;
@@ -41,9 +40,6 @@
   --avatar-radius: 0px;
   --channel-radius: 0px;
   --tooltip-radius: 0px;
-  --settingswidth: 960;
-  --settingsheight: 80;
-  --settingsbackground: transparent;
 }
 
 * {
