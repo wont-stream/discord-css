@@ -3,12 +3,12 @@
  * @author wont.stream
  * @authorId 1125315673829154837
  * @description https://github.com/wont-stream/discord-css
- * @version 0.2.6
+ * @version 0.2.7
  * @invite QhmtYSsprZ
  * @website https://ipv4.army
  * @source https://github.com/wont-stream/discord-css/
  * @updateUrl https://cdn.jsdelivr.net/gh/wont-stream/discord-css/index.css
- * @colorCode e01e37
+ * @colorCode b21e35
  */
 
 @import url("https://aushevahmad.github.io/awesome-css/modules/channeltweaks.css");
@@ -22,9 +22,9 @@
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Google.css");
 
 :root {
-  --accent-hue: 352;
-  --accent-saturation: 76%;
-  --accent-lightness: 250%;
+  --accent-hue: 351;
+  --accent-saturation: 71%;
+  --accent-lightness: 41%;
   --accent-text-color: #DEDEDE;
   --message-padding-top: 8px;
   --message-padding-side: 12px;
