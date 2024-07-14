@@ -8,6 +8,7 @@
  * @website https://ipv4.army
  * @source https://github.com/wont-stream/discord-css/
  * @updateUrl https://cdn.jsdelivr.net/gh/wont-stream/discord-css/index.css
+ * @colorCode 641220
  */
 
 @import url("https://aushevahmad.github.io/awesome-css/modules/channeltweaks.css");
@@ -21,9 +22,9 @@
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Google.css");
 
 :root {
-  --accent-hue: 355;
-  --accent-saturation: 86%;
-  --accent-lightness: 45%;
+  --accent-hue: 349.8;
+  --accent-saturation: 69.5%;
+  --accent-lightness: 23.1%;
   --accent-text-color: #DEDEDE;
   --message-padding-top: 8px;
   --message-padding-side: 12px;
