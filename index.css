@@ -3,7 +3,7 @@
  * @author wont.stream
  * @authorId 1125315673829154837
  * @description https://github.com/wont-stream/discord-css
- * @version 0.2.8
+ * @version 0.3.0
  * @invite QhmtYSsprZ
  * @website https://ipv4.army
  * @source https://github.com/wont-stream/discord-css/
@@ -19,26 +19,59 @@
 @import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/addons/icons/source.css");
 @import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/addons/material-you/source.css");
 
-@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Google.css");
-
 :root {
-  --accent-hue: 351;
-  --accent-saturation: 71%;
-  --accent-lightness: 41%;
-  --accent-text-color: #DEDEDE;
-  --message-padding-top: 8px;
-  --message-padding-side: 12px;
-  --sidebar-panel-radius-big: 0px;
-  --sidebar-panel-radius-small: 0px;
-  --message-radius: 0px;
-  --media-radius: 0px;
-  --card-radius: 0px;
-  --card-radius-big: 0px;
-  --button-radius: 0px;
-  --input-radius: 0px;
-  --popout-radius: 0px;
-  --popout-radius-big: 0px;
-  --avatar-radius: 0px;
-  --channel-radius: 0px;
-  --tooltip-radius: 0px;
+	/* ACCENT HSL AND TEXT COLOR SETTINGS */
+	--accent-hue: 351;
+	--accent-saturation: 71%;
+	--accent-lightness: 41%;
+	--accent-text-color: hsl(0,0%,100%); /* DOES NOTHING WITH MATERIAL YOU ENABLED */
+	--accent-button-action: hsl(0,0%,100%);
+
+	/* ALERT HSL AND TEXT COLOR SETTINGS */
+	--alert-hue: 0;
+    --alert-saturation: 85%;
+    --alert-lightness: 61%;
+	--alert-text-color: hsl(0,0%,100%); /* DOES NOTHING WITH MATERIAL YOU ENABLED */
+
+	/* WARNING HSL AND TEXT COLOR SETTINGS*/
+	--warning-hue: 40;
+    --warning-saturation: 86.4%;
+    --warning-lightness: 56.9%;
+	--warning-text-color: hsl(0,0%,100%); /* DOES NOTHING WITH MATERIAL YOU ENABLED */
+
+	/* MESSAGE SETTINGS */
+	--message-radius: 18px;
+	--message-padding-top: 8px;
+	--message-padding-side: 12px;
+
+	/* MESSAGE MEDIA SETTINGS */
+	--media-radius: 10px;
+
+	/* CARD SETTINGS */
+	--card-radius: 8px;
+	--card-radius-big: 18px;
+
+	/* BUTTON SETTINGS */
+	--button-height: 36px;
+	--button-padding: 0 24px;
+	--button-action-color: hsl(0,0%,100%);
+
+	/* INPUT SETTINGS */
+	--input-height: 36px;
+	--input-padding: 0 12px;
+
+	/* POPOUT AND MODAL SETTINGS */
+	--popout-radius: 8px;
+	--popout-radius-big: 18px;
+
+	/* TOOLTIP SETTINGS */
+	--tooltip-color: hsl(0,0%,38%,0.9);
+	--tooltip-text-color: hsl(0,0%,87%);
+	--tooltip-font-size: 12px;
+	--tooltip-padding: 8px;
+	--tooltip-radius: 8px;
+
+	/* SCROLLBAR SETTINGS */
+	--scrollbar-width: 10px;
+	--scrollbar-thin-width: 6px;
 }
