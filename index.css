@@ -10,6 +10,8 @@
  * @updateUrl https://cdn.jsdelivr.net/gh/wont-stream/discord-css/index.css
  */
 
+/* #4d5c93 */
+
 @import url("https://aushevahmad.github.io/awesome-css/modules/channeltweaks.css");
 @import url("https://cdn.jsdelivr.net/gh/AushevAhmad/awesome-css@main/modules/adblockplus.css");
 @import url("https://cdn.jsdelivr.net/gh/AushevAhmad/awesome-css@main/modules/declutter.css");
@@ -17,3 +19,9 @@
 @import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css");
 @import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/addons/icons/source.css");
 @import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/addons/material-you/source.css");
+
+:root {
+	--accent-hue: 227;
+	--accent-saturation: 31%;
+	--accent-lightness: 44%;
+}
